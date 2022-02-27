@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/project_aon/static/css/main.7ed875f2.css",
-    "main.js": "/project_aon/static/js/main.30ab9542.js",
-    "static/js/787.aa5c3e25.chunk.js": "/project_aon/static/js/787.aa5c3e25.chunk.js",
-    "static/media/spot.jpg": "/project_aon/static/media/spot.10012904e79271638692.jpg",
-    "static/media/product.jpg": "/project_aon/static/media/product.128cfd3eee2745edaae3.jpg",
-    "static/media/main.jpg": "/project_aon/static/media/main.3f909691f467a0f6eba4.jpg",
-    "static/media/Lora-VariableFont_wght.ttf": "/project_aon/static/media/Lora-VariableFont_wght.05e77ab0811155f66e9b.ttf",
-    "index.html": "/project_aon/index.html",
-    "main.7ed875f2.css.map": "/project_aon/static/css/main.7ed875f2.css.map",
-    "main.30ab9542.js.map": "/project_aon/static/js/main.30ab9542.js.map",
-    "787.aa5c3e25.chunk.js.map": "/project_aon/static/js/787.aa5c3e25.chunk.js.map"
+    "main.css": "./static/css/main.9bb66b14.css",
+    "main.js": "./static/js/main.e4eff78e.js",
+    "static/js/787.aa5c3e25.chunk.js": "./static/js/787.aa5c3e25.chunk.js",
+    "static/media/spot.jpg": "./static/media/spot.10012904e79271638692.jpg",
+    "static/media/product.jpg": "./static/media/product.128cfd3eee2745edaae3.jpg",
+    "static/media/main.jpg": "./static/media/main.3f909691f467a0f6eba4.jpg",
+    "static/media/Lora-VariableFont_wght.ttf": "./static/media/Lora-VariableFont_wght.05e77ab0811155f66e9b.ttf",
+    "index.html": "./index.html",
+    "main.9bb66b14.css.map": "./static/css/main.9bb66b14.css.map",
+    "main.e4eff78e.js.map": "./static/js/main.e4eff78e.js.map",
+    "787.aa5c3e25.chunk.js.map": "./static/js/787.aa5c3e25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ed875f2.css",
-    "static/js/main.30ab9542.js"
+    "static/css/main.9bb66b14.css",
+    "static/js/main.e4eff78e.js"
   ]
 }
